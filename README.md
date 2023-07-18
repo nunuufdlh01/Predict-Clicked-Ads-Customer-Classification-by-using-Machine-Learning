@@ -1,5 +1,7 @@
 # Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learning
 
+**Mini Project File Link is** <a href="https://drive.google.com/file/d/1BqzY9_Q5Pc7Njh7-x3Hz5dQfzHc4BmPM/view?usp=sharing">Here</a>
+
 ## Customer Type and Behaviour Analysis on Advertisement
 - Statistical Analysis
   
@@ -255,8 +257,6 @@
     So we can conclude that:
     
     machine learning can work well in increasing a company's profit.
-
-**Mini Project File Link is** <a href="https://drive.google.com/file/d/1BqzY9_Q5Pc7Njh7-x3Hz5dQfzHc4BmPM/view?usp=sharing"></a>
   
 
 
